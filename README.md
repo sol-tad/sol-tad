@@ -1,9 +1,9 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="100%" height="300"/>
-<img align="right" width="400"  
-border-radius:"100%"  src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+
 <h1 align="center">Hi 👋, I'm Solomon Tadesse</h1>
 <h3 align="center">I am a dedicated 👩‍💻 full-stack developer with expertise in MERN (MongoDB, Express.js, React, Node.js) technology.🌍 Based in Ethiopia 🚀 Let's build amazing things! #codinglife</h3>
-
+<img align="right" width="400"  
+border-radius:"100%"  src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sol-tad&label=Profile%20views&color=0e75b6&style=flat" alt="sol-tad" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sol-tad/](https://github.com/sol-tad/)
