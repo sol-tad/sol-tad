@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="100%" height="300"/>
+<img src="https://static.vecteezy.com/system/resources/previews/000/523/378/non_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg" width="1000%" height="300"/>
 
 <h1 align="center">Hi 👋, I'm Solomon Tadesse</h1>
 <h3 align="center">I am a dedicated 👩‍💻 full-stack developer with expertise in MERN (MongoDB, Express.js, React, Node.js) technology.🌍 Based in Ethiopia 🚀 Let's build amazing things! #codinglife</h3>
